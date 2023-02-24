@@ -1,0 +1,10 @@
+Unnamed: 0,model,label,score,given_ip
+0.0,Fin Model,NEG,0.999999,This is good
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x00000165003FEAF0>,Negative,0.9905643463134766,positive motto is good
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x0000016501D31EE0>,POS,0.9813002347946168,positive motto is good
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x0000016502409F40>,Negative,0.942598044872284,positive motto is good
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x000001650226A7C0>,joy,0.9971463084220886,positive motto is good
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x00000165003FEAF0>,Negative,0.995832860469818,go for a hero
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x0000016501D31EE0>,POS,0.8553354740142822,go for a hero
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x0000016502409F40>,Neutral,0.6691083908081055,go for a hero
+,<transformers.pipelines.text_classification.TextClassificationPipeline object at 0x000001650226A7C0>,joy,0.9909377098083496,go for a hero
