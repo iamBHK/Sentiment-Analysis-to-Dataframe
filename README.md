@@ -1,5 +1,6 @@
 # Sentiment-Analysis-to-Dataframe
-If yould like to analyze the context of a long sentence(s) that are hectic to read, you can use one of the popular AI technique - Natural Language Processing. This file contains 2 notebook instances.
+This project will give you clear idea on how to grab overall context of a long sentence(s) that are hectic to read, you can use one of the popular AI technique - Natural Language Processing. This file contains 3 notebook instances.
+First go through this file to know meaning of every line : <a href="https://github.com/iamBHK/Sentiment-Analysis-to-Dataframe/blob/main/NLP%20Sentiment%20Analysis%20to%20CSV.ipynb">NLP Sentiment Analysis to CSV.ipynb</a>
 <!--  -->
 <img src="NLP+Model+For+Sentiment+Analysis.png" style="height:550px; width:100%">
 <!--  -->
